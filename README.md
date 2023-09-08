@@ -115,3 +115,4 @@ export class CameraService {
 ## License
 
 MIT © [Jeduan Cornejo](https://github.com/jeduan)
+MIT © [yhsang2](https://github.com/yhsang2)
