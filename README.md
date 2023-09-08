@@ -1,5 +1,6 @@
 ## HELLO WORLD!
-> This project is currently fixing a bug.
+> This project is currently fixing a bug! (2023-09-08)
+> We look for contributors to manage the project together!
 
 
 # cordova-plugin-crop-v2
