@@ -1,4 +1,4 @@
-## HELLO WORLD!
+## Welcome, brothers!
 > This project is currently fixing a bug! (2023-09-08)
 
 > We look for contributors to manage the project together!
