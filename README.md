@@ -14,6 +14,7 @@
 ## Install
 
 ```
+$ cordova plugin add https://github.com/apache/cordova-plugin-crop-v2
 $ cordova plugin add --save cordova-plugin-crop
 ```
 
